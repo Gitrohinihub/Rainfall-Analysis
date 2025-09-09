@@ -71,19 +71,19 @@ Data was cleaned in Snowflake, removing errors and calculating metrics like aver
 - Reduce losses from weather unpredictability  
 
 ## 8. Business Recommendations
-### 8.1 🌱 Focus on High-Risk Regions
+#### 8.1 🌱 Focus on High-Risk Regions
 - **Action:** Increase irrigation support in the Southern region (5% rainfall drop) and monitor Northern floods (10% increase).  
 - **Why:** Improve crop yields by 15% and reduce flood damage costs.  
 
-### 8.2 💧 Optimize Water Resource Planning
+#### 8.2 💧 Optimize Water Resource Planning
 - **Action:** Use forecasts to adjust water storage in regions with variable rainfall.  
 - **Why:** Save 20% on water management costs.  
 
-### 8.3 🌦️ Target Weather Impact Mitigation
+#### 8.3 🌦️ Target Weather Impact Mitigation
 - **Action:** Focus on areas with high humidity-rainfall correlation for early warnings.  
 - **Why:** Reduce weather-related losses by 10%.  
 
-### 8.4 📊 Monitor and Adapt
+#### 8.4 📊 Monitor and Adapt
 - **Action:** Review seasonal trends quarterly and update plans.  
 - **Why:** Maintain stable agricultural output despite a 2% annual variability.  
 
@@ -114,5 +114,5 @@ Data was cleaned in Snowflake, removing errors and calculating metrics like aver
 - The power of cloud tools working together 
 
 ## 14. Contact 
-- [LinkedIn](https://www.linkedin.com/in/rohini-singh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Email](miss.rohini09coder@gmail.com)
+- ![LinkedIn](https://www.linkedin.com/in/rohini-singh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ![Email](miss.rohini09coder@gmail.com)
