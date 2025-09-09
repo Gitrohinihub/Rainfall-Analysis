@@ -51,8 +51,12 @@ Data was cleaned in Snowflake, removing errors and calculating metrics like aver
 
 **Outputs:** Interactive dashboard and a static PDF report.  
 
-- Interactive Dashboard: *(Power BI App Link)*  
-- Static Report: *(PDF Link)*  
+- Interactive Dashboard: ![](https://app.powerbi.com/links/T3WN-BXiQq?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare&bookmarkGuid=e468d66f-48f2-40d1-b3fa-d5f4311d54e2)
+- Static Report:
+  ![](https://github.com/Gitrohinihub/Rainfall-Analysis/blob/43e92d6290b975d0a410c4bdfd251fcdbcdc4ba8/Report%20page%201.png)
+  ![](https://github.com/Gitrohinihub/Rainfall-Analysis/blob/43e92d6290b975d0a410c4bdfd251fcdbcdc4ba8/Report%20page%202.png)
+  ![](https://github.com/Gitrohinihub/Rainfall-Analysis/blob/43e92d6290b975d0a410c4bdfd251fcdbcdc4ba8/Report%20page%203.png) 
+  ![](https://github.com/Gitrohinihub/Rainfall-Analysis/blob/43e92d6290b975d0a410c4bdfd251fcdbcdc4ba8/Report%20page%204.png) 
 
 ## 7. Business Problem Solved
 ### 7.1 Core Business Problem
