@@ -118,4 +118,5 @@ Data was cleaned in Snowflake, removing errors and calculating metrics like aver
 - The power of cloud tools working together 
 
 ## 14. Contact 
-- [LinkedIn](https://www.linkedin.com/in/rohini-singh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [rohini-singh-](https://www.linkedin.com/in/rohini-singh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: miss.rohini09coder@gmail.com
